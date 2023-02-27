@@ -6,15 +6,6 @@ body {
     height: 100%;
     margin: 0 auto;;
 }
-<<<<<<< HEAD
-span {
-    border: 1px solid red;
-}
- .autor {
-    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
-    color: grey;
- }
-=======
 header{
     width: 100%;
     background: rgb(199, 113, 113)
@@ -31,4 +22,3 @@ header{
 .post p {
     text-align: justify;
 }
->>>>>>> cabecera
